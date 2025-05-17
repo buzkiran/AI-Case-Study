@@ -6,3 +6,7 @@ faiss-cpu
 streamlit
 pandas
 numpy
+tqdm
+dotenv
+pickle
+json
