@@ -1,0 +1,8 @@
+openai
+requests
+Pillow
+sentence-transformers
+faiss-cpu
+streamlit
+pandas
+numpy
